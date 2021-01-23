@@ -53,3 +53,8 @@
 .countdown-btn:hover {
   background: #e03f3f;
 }
+body {
+    background-position: center;
+    background-image: url("https://1.bp.blogspot.com/-DuVB_wml8i0/YAv97n0acvI/AAAAAAAAA6g/ZfIzNPXLRZcTl1Jai-jQNWtUhQ_DF8MtwCLcBGAsYHQ/s0/36-macbook-pro-16-inch.jpg");
+    background-attachment: fixed;
+}
